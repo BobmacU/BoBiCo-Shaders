@@ -1,3 +1,5 @@
+# S&toon [WIP and Not released yet!]
+
 <img width="1024" height="512" alt="IMG_2591" src="https://github.com/user-attachments/assets/032a8db3-39bd-441a-ab20-45e88cfc353d" />
 
 **SboxToon** is a feature-rich toon shader for **S&box engine/platform** based on a popular Unity/VRC shader [**LilToon**](https://github.com/lilxyzw/lilToon)! This shader is intended for use with any cartoony characters and **VRChat** models with high-quality.
@@ -75,3 +77,6 @@
 - Fur shader support.
 - Stencil support.
 ..and many more!
+
+# Known issues
+- Output is too bright. Should be an easy fix.
