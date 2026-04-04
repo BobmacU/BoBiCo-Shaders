@@ -63,4 +63,4 @@
 ..and many more!
 
 # Known issues
-- Nothing yet.
+- Nothing for now!
