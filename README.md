@@ -8,18 +8,26 @@
 • **Color/Texture**
 - Supports color/texture input.
 - Supports color adjustments: Brightness, Gamma, Hue, and Saturation.
+
+• **Color Tint**
 - Supports color tinting with color adjustments.
 - Supports color tint masking.
 
+• **2nd/3rd color**
+- Supports two detailing textures.
+- Supports masking for both layers.
+- Supports blending modes (Add, Screen, Multiply).
+- Supports position and rotation for placing the detail texture.
+
 • **Shadow shading**
-- Supports triple-layer shadow shading for cartoony or realistic.
+- Supports triple-layer shadow shading.
 - Supports masking for all three layers.
-- Supports adjustments: Blur, Border, Range and Boundary.
+- Supports adjustments: Blur, Border, and intensity.
 - Normal map adaption.
 - Ambient Lighting support.
 
 • **Lighting**
-- Unlit slider
+- Unlit slider (Removed for now)
 - More to come..
 
 • **Normal mapping & Emission**
@@ -32,13 +40,7 @@
 - Supports masking for both layers.
 - Supports blending modes (Add, Screen, Multiply).
 - Intensity sliders for both layers.
-- Normal map adaption.
-
-• **Detailing**
-- Supports two detailing textures.
-- Supports masking for both layers.
-- Supports blending modes (Add, Screen, Multiply).
-- Supports position and rotation for placing the detail texture.
+- Normal map adaptation.
 
 • **Extras**
 - Supports four filterings.
@@ -50,10 +52,15 @@
 **Coming Soon**
 
 # To-Do
+• **Shadow shading**
+- Need rim-based shadow shading like LilToon. Planned to feature two different shading styles.
+- Boundary and Boundary color needed.
+
 • **2nd/3rd textures**
 - UV modes? (Not sure how to implement that though.)
 
 • **Other features**
+- UV settings
 - Rimlighting support.
 - Backlit support.
 - Parallax Occlusion Support.
