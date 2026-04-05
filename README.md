@@ -5,70 +5,51 @@
 **SboxToon** is a feature-rich toon shader for **S&box engine/platform** inspired on popular Unity/VRC shader [**LilToon**](https://github.com/lilxyzw/lilToon)! This shader is intended for use with any cartoony characters and **VRChat** models with high-quality. We’ll be making shader variants for characters from various games soon.
 
 # Features
-• **Color/Texture**
-- Supports color/texture input.
-- Supports color adjustments: Brightness, Gamma, Hue, and Saturation.
 
-• **Color Tint**
-- Supports color tinting with color adjustments.
-- Supports color tint masking.
-
-• **2nd/3rd color**
-- Supports two detailing textures.
-- Supports masking for both layers.
-- Supports blending modes (Add, Screen, Multiply).
-- Supports position and rotation for placing the detail texture.
-
-• **Shadow shading**
-- Supports triple-layer shadow shading.
-- Supports masking for all three layers.
-- Supports adjustments: Blur, Border, and intensity.
-- Normal map adaption.
-- Ambient Lighting support.
-
-• **Lighting**
-- Unlit slider (Removed for now)
-- More to come..
-
-• **Normal mapping & Emission**
-- Supports normal mapping and Emission.
-- Supports Emission masking.
-- Intensity sliders for both.
-
-• **Matcap shading**
-- Supports two matcaps shading.
-- Supports masking for both layers.
-- Supports blending modes (Add, Screen, Multiply).
-- Intensity sliders for both layers.
-- Normal map adaptation.
-
-• **Extras**
-- Supports four filterings.
-- Supports backface rendering.
-- Supports Fog.
-- Supports direct lighting. Indirect needs testing.
+| Group | Feature | Status | Notes |
+|---|---|---:|---|
+| Color / Texture | Color / Texture Input | ✅ | Supports color/texture input |
+| Color / Texture | Brightness / Gamma / Hue / Saturation | ✅ | Color adjustment controls |
+| Color Tint | Color Tint | ✅ | Supports tinting with color adjustments |
+| Color Tint | Color Tint Masking | ✅ | Tint mask support |
+| 2nd / 3rd Color | 2nd / 3rd Color Textures | ✅ | Supports two detail textures |
+| 2nd / 3rd Color | Detail Masking | ✅ | Mask support for both layers |
+| 2nd / 3rd Color | Blending Modes | ✅ | Add, Screen, Multiply |
+| 2nd / 3rd Color | Position / Rotation | ✅ | Placement controls for detail textures |
+| Shadow Shading | Triple-Layer Shadow Shading | ✅ | Three shadow layers supported |
+| Shadow Shading | Shadow Masking | ✅ | Mask support for all three layers |
+| Shadow Shading | Blur / Border / Intensity | ✅ | Shadow shaping controls |
+| Shadow Shading | Normal Map Adaptation | ✅ | Works with shadow shading |
+| Shadow Shading | Ambient Lighting Support | ✅ | Included in shadow shading |
+| Lighting | Unlit Slider | ❌ | Removed for now |
+| Lighting | Direct Lighting | ❌ | Broken |
+| Lighting | Indirect Lighting | ❌ | Needs testing |
+| Normal Mapping & Emission | Normal Mapping | ✅ | Supported |
+| Normal Mapping & Emission | Emission | ✅ | Supported |
+| Normal Mapping & Emission | Emission Masking | ✅ | Mask support included |
+| Normal Mapping & Emission | Emission Intensity | ✅ | Intensity slider |
+| Matcap Shading | Two Matcap Layers | ✅ | Supports two matcaps |
+| Matcap Shading | Matcap Masking | ✅ | Mask support for both layers |
+| Matcap Shading | Blending Modes | ✅ | Add, Screen, Multiply |
+| Matcap Shading | Intensity | ✅ | Intensity sliders for both layers |
+| Matcap Shading | Normal Map Adaptation | ✅ | Supported |
+| Extras | Four Filterings | ✅ | Supports four filtering options |
+| Extras | Backface Rendering | ✅ | Supported |
+| Extras | Fog | ✅ | Supported |
+| Shadow Shading | Rim-Based Shadow Shading | ❌ | Planned, LilToon-style |
+| Shadow Shading | Two Shadow Styles | ❌ | Planned |
+| Shadow Shading | Boundary | ❌ | Needed for shadow shading |
+| Shadow Shading | Boundary Color | ❌ | Needed for shadow shading |
+| 2nd / 3rd Color | UV Modes | ❌ | Not sure how to implement yet |
+| Other Features | UV Settings | ❌ | Planned |
+| Other Features | Rim Lighting | ❌ | Planned |
+| Other Features | Backlit Support | ❌ | Planned |
+| Other Features | Parallax Occlusion Support | ❌ | Planned |
+| Other Features | PBR / Gloss / Reflections | ❌ | Planned |
+| Other Features | Outlines Support | ❌ | Planned |
+| Other Features | Fur Shader Support | ❌ | Planned |
+| Other Features | Stencil Support | ❌ | Planned |
+| Known Issues | Lighting / Shading | ❌ | Screen-space shading bug |
 
 # Documentation
-**Coming Soon**
-
-# To-Do
-• **Shadow shading**
-- Need rim-based shadow shading like LilToon. Planned to feature two different shading styles.
-- Boundary and Boundary color needed.
-
-• **2nd/3rd textures**
-- UV modes? (Not sure how to implement that though.)
-
-• **Other features**
-- UV settings
-- Rimlighting support.
-- Backlit support.
-- Parallax Occlusion Support.
-- PBR/Gloss and Reflections support.
-- Outlines support.
-- Fur shader support.
-- Stencil support.
-..and many more!
-
-# Known issues
-- Lighting support and shading are broken rn.
+## Coming soon!
