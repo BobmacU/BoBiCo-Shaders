@@ -2,7 +2,7 @@
 
 <img width="1024" height="512" alt="IMG_2591" src="https://github.com/user-attachments/assets/032a8db3-39bd-441a-ab20-45e88cfc353d" />
 
-**SboxToon** is a feature-rich toon shader for **S&box engine/platform** inspired on popular Unity/VRC shader [**LilToon**](https://github.com/lilxyzw/lilToon)! This shader is intended for use with any cartoony characters and **VRChat** models with high-quality. We’ll be making shader variants for characters from various games soon.
+**SboxToon** is a feature-rich toon shader for **S&box engine/platform** inspired on popular Unity/VRC shader [**LilToon**](https://github.com/lilxyzw/lilToon)! This shader is intended for use with any cartoony characters and **VRChat** models with high-quality. 
 
 # Features
 
@@ -22,8 +22,8 @@
 | Shadow Shading | Normal Map Adaptation | ✅ | Works with shadow shading |
 | Shadow Shading | Ambient Lighting Support | ✅ | Included in shadow shading |
 | Lighting | Unlit Slider | ❌ | Removed for now |
-| Lighting | Direct Lighting | ❌ | Broken |
-| Lighting | Indirect Lighting | ❌ | Needs testing |
+| Lighting | Direct Lighting | ✅ | Supported |
+| Lighting | Indirect Lighting | ✅ | Supported |
 | Normal Mapping & Emission | Normal Mapping | ✅ | Supported |
 | Normal Mapping & Emission | Emission | ✅ | Supported |
 | Normal Mapping & Emission | Emission Masking | ✅ | Mask support included |
