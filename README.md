@@ -1,55 +1,86 @@
-# S&toon [WIP and Not released yet!]
+<p align="center">
+  <img width="512" height="512" alt="IMG_2591" src="https://github.com/user-attachments/assets/032a8db3-39bd-441a-ab20-45e88cfc353d" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/BobmacU/SandToon?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/platform-S&box-blue?style=for-the-badge" />
+  <p align="center">
+  <a href="https://github.com/BobmacU/SandToon/releases">
+  <a href="https://discord.gg/D2RKbxEmtR"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Documentation-S&Toon%20-blue?style=for-the-badge" /></a>
+  </a>
+</p>
+</p>
 
-<img width="1024" height="512" alt="IMG_2591" src="https://github.com/user-attachments/assets/032a8db3-39bd-441a-ab20-45e88cfc353d" />
+<p align="center">
+    <img src="https://img.shields.io/github/v/release/BobmacU/SandToon?style=for-the-badge&label=RELEASE&color=ff69b4" />
+    <img src="https://img.shields.io/github/downloads/BobmacU/SandToon/total?style=for-the-badge&label=DOWNLOADS&color=white" />
+    <img src="https://img.shields.io/badge/version-v1.0.0-blue?style=for-the-badge" />
+</p>
 
-**SboxToon** is a feature-rich toon shader for **S&box engine/platform** inspired on popular Unity/VRC shader [**LilToon**](https://github.com/lilxyzw/lilToon)! This shader is intended for use with any cartoony characters and **VRChat** models with high-quality. 
+---
 
-# Features
+## Overview
 
-| Group | Feature | Status | Notes |
-|---|---|---:|---|
-| Color / Texture | Color / Texture Input | ✅ | Supports color/texture input |
-| Color / Texture | Brightness / Gamma / Hue / Saturation | ✅ | Color adjustment controls |
-| Color Tint | Color Tint | ✅ | Supports tinting with color adjustments |
-| Color Tint | Color Tint Masking | ✅ | Tint mask support |
-| 2nd / 3rd Color | 2nd / 3rd Color Textures | ✅ | Supports two detail textures |
-| 2nd / 3rd Color | Detail Masking | ✅ | Mask support for both layers |
-| 2nd / 3rd Color | Blending Modes | ✅ | Add, Screen, Multiply |
-| 2nd / 3rd Color | Position / Rotation | ✅ | Placement controls for detail textures |
-| Shadow Shading | Triple-Layer Shadow Shading | ✅ | Three shadow layers supported |
-| Shadow Shading | Shadow Masking | ✅ | Mask support for all three layers |
-| Shadow Shading | Blur / Border / Intensity | ✅ | Shadow shaping controls |
-| Shadow Shading | Normal Map Adaptation | ✅ | Works with shadow shading |
-| Shadow Shading | Ambient Lighting Support | ✅ | Included in shadow shading |
-| Lighting | Unlit Slider | ❌ | Removed for now |
-| Lighting | Direct Lighting | ✅ | Supported |
-| Lighting | Indirect Lighting | ✅ | Supported |
-| Normal Mapping & Emission | Normal Mapping | ✅ | Supported |
-| Normal Mapping & Emission | Emission | ✅ | Supported |
-| Normal Mapping & Emission | Emission Masking | ✅ | Mask support included |
-| Normal Mapping & Emission | Emission Intensity | ✅ | Intensity slider |
-| Matcap Shading | Two Matcap Layers | ✅ | Supports two matcaps |
-| Matcap Shading | Matcap Masking | ✅ | Mask support for both layers |
-| Matcap Shading | Blending Modes | ✅ | Add, Screen, Multiply |
-| Matcap Shading | Intensity | ✅ | Intensity sliders for both layers |
-| Matcap Shading | Normal Map Adaptation | ✅ | Supported |
-| Extras | Four Filterings | ✅ | Supports four filtering options |
-| Extras | Backface Rendering | ✅ | Supported |
-| Extras | Fog | ✅ | Supported |
-| Shadow Shading | Rim-Based Shadow Shading | ❌ | Planned, LilToon-style |
-| Shadow Shading | Two Shadow Styles | ❌ | Planned |
-| Shadow Shading | Boundary | ❌ | Needed for shadow shading |
-| Shadow Shading | Boundary Color | ❌ | Needed for shadow shading |
-| 2nd / 3rd Color | UV Modes | ❌ | Not sure how to implement yet |
-| Other Features | UV Settings | ❌ | Planned |
-| Other Features | Rim Lighting | ❌ | Planned |
-| Other Features | Backlit Support | ❌ | Planned |
-| Other Features | Parallax Occlusion Support | ❌ | Planned |
-| Other Features | PBR / Gloss / Reflections | ❌ | Planned |
-| Other Features | Outlines Support | ❌ | Planned |
-| Other Features | Fur Shader Support | ❌ | Planned |
-| Other Features | Stencil Support | ❌ | Planned |
-| Known Issues | Lighting / Shading | ❌ | Screen-space shading bug |
+**S&Toon Shader** is a stylized, feature-rich toon shader for the **S&box game engine**, inspired by **LilToon**. It focuses on both **toon** and **semi-realistic** shading, offering a wide range of customization options while remaining performant and easy to use. It supports **layered textures**, **flexible masking**, **advanced shadow shading** along with many other features, making it suitable for both real-time use and high-quality screenshot rendering. Designed with artists in mind, it provides intuitive controls to quickly achieve polished, visually appealing results in a few seconds!
 
-# Documentation
-## Coming soon!
+</div>
+
+---
+
+<div align=center>
+
+## [🟦 S&box Workshop Link](...) [📦 Get the full package!](https://github.com/BobmacU/SandToon/releases/latest) [📘 Documentation](...)
+
+</div>
+
+# Installation.
+## [Direct-use]
+- Directly search **SandToon** in the Material Editor's shaders.
+- Wait a bit and the shader will be installed and start using it!
+
+## [Manual-Package]
+- Download the latest release
+- Extract the files and drop it directly into your project's folder.
+
+---
+# Main description
+
+## Features
+
+- **Stylized toon & semi-realistic shading**
+- **Fully environment lighting adaption**
+- **Direct + Indirect lighting support**
+- **Rendering modes: Opaque, Cutout and Transparent**
+- **Extra texture slots for flexible control**
+- **Masking support for full-control**
+- **Flexible UV tiling, offset, rotation, and animation**
+- **Matcaps, Rim lighting, Back-lighting and more stylized features**
+- **Full-PBR support with many extras**
+- **Special effects: Emission, Glitter, Refraction, Fancy Fade in/out etc.**
+- **And many more features awaits for you to try out!**
+
+## License
+This project is licensed under the **MIT License**.
+
+You are free to study, use, modify, and fork the project even include it in your own projects (even commercial). 
+We'll be providing important files for making your own shader based on this shader soon!
+
+But, Please respect the original work:
+- Do not claim this shader as your own.
+- Do not reupload it elsewhere without proper credit.
+While MIT allows redistribution and commercial use, this note is a friendly request to keep credit where it’s due.
+
+## Contributing
+If you like to contribute new features/fixes to the shader. Feel free to make **[pull requests](https://github.com/BobmacU/SandToon/pulls)**
+Please only contribute with features/fixes that the shader really needs. Thank you!
+
+IF you like to report issues. Feel free to open [issues](https://github.com/BobmacU/SandToon/issues).
+Make sure to include many informations about the issue with screenshots/photos. It really helps!
+
+## Compatibility
+
+This shader is fully compatible with **S&box**'s release and staging unless there's a breaking change in **Staging branch**. 
+Please be aware that the shader is made and will be updating on **Staging** first instead of **Release** to receieve many improvements as possible!
+If there's a breaking change, Please do wait until **Facepunch** drop a weekly update.
