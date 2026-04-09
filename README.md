@@ -41,7 +41,7 @@
 - Wait a bit and the shader will be installed and start using it!
 
 ## [Manual-Package]
-- Download the latest release
+- Download the [latest release](https://github.com/BobmacU/SandToon/releases).
 - Extract the files and drop it directly into your project's folder.
 
 ---
