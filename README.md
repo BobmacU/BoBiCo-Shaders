@@ -2,7 +2,7 @@
   <img width="512" height="512" alt="IMG_2591" src="https://github.com/user-attachments/assets/032a8db3-39bd-441a-ab20-45e88cfc353d" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/status-WIP-red?style=for-the-badge" />
   <img src="https://img.shields.io/github/license/BobmacU/SandToon?style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/badge/platform-S&box-blue?style=for-the-badge" />
   <p align="center">
