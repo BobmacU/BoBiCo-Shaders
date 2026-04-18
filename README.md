@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-# Bo-Bi-Co Shaders
+Flat shading | Toon Shading | Realistic shading | Ambient lighting support | Light probes & DDGI Indirect support | PBR Features | Masking system | Many advanced features | and many more!
 </p>
 
 
@@ -11,7 +11,10 @@
 
 # Overview
 
-**S&Toon Shader** is a stylized, feature-rich toon shader for the **S&box game engine**, inspired by **LilToon**. It focuses on both **toon** and **semi-realistic** shading, offering a wide range of customization options while remaining performant and easy to use. It supports many features, making it suitable for both real-time use and high-quality screenshot rendering. Designed with artists in mind, it provides intuitive controls to quickly achieve polished, visually appealing results in a few seconds!
+**Bo-Bi-Co Shader** is a feature-rich toon shader for the **S&box game engine**, inspired by **LilToon** and **Poiyomi** 
+
+**Bo-Bi-Co** shader offers many shading styles and many easy-to-use features for customizations while being performant as it can!
+The shader is completely **Open-Source** and **free** with the **MIT** license.
 
 </div>
 
@@ -25,7 +28,7 @@
 
 # Installation.
 ## [Cloud-usage]
-- Search **S&Toon** in the Material Editor's shaders.
+- Search **BoBiCo Shaders** in the Material Editor's shaders.
 - When found, click it and wait a bit and the shader will be installed and start using it.
 
 ## [Manual-Package]
