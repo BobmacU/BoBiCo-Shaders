@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Flat shading | Toon Shading | Realistic shading | Ambient lighting support | Light probes & DDGI Indirect support | PBR Features | Masking system | Many advanced features | and many more!
+**Flat shading | Toon Shading | Realistic shading | Ambient lighting support | Light probes & DDGI Indirect support | PBR Features | Masking system | Many advanced features | and many more!**
 </p>
 
 
@@ -11,10 +11,7 @@ Flat shading | Toon Shading | Realistic shading | Ambient lighting support | Lig
 
 # Overview
 
-**Bo-Bi-Co Shader** is a feature-rich toon shader for the **S&box game engine**, inspired by **LilToon** and **Poiyomi** 
-
-**Bo-Bi-Co** shader offers many shading styles and many easy-to-use features for customizations while being performant as it can!
-The shader is completely **Open-Source** and **free** with the **MIT** license.
+**Bo-Bi-Co Shader** is a feature-rich toon shader for the **S&box game engine**, inspired by **LilToon** and **Poiyomi** with full ambient, direct and indirect (DDGI) support for maximum quality with the lighting. And, also supports many shading styles with many easy-to-use features to use while being performant as possible.
 
 </div>
 
@@ -22,7 +19,7 @@ The shader is completely **Open-Source** and **free** with the **MIT** license.
 
 <div align=center>
 
-## [🟦 S&box Workshop Link](...) [📦 Get the full package!](https://github.com/BobmacU/SandToon/releases/latest) [📘 Documentation](...)
+## [🟦 S&box Workshop Link](...) [📦 Get the full package!](https://github.com/BobmacU/Bo-Bi-Co-Shaders/releases/latest) [📘 Documentation](...)
 
 </div>
 
@@ -32,7 +29,7 @@ The shader is completely **Open-Source** and **free** with the **MIT** license.
 - When found, click it and wait a bit and the shader will be installed and start using it.
 
 ## [Manual-Package]
-- Download the [latest release](https://github.com/BobmacU/SandToon/releases).
+- Download the [latest release](https://github.com/BobmacU/Bo-Bi-Co-Shaders/releases/latest).
 - Extract the files and drop it directly into your project's folder.
 
 ---
@@ -40,56 +37,37 @@ The shader is completely **Open-Source** and **free** with the **MIT** license.
 
 ## Features
 
-- **Stylized toon shading**
-- **Fully environment lighting adaption**
-- **Direct + Indirect lighting support**
-- **Extra texture slots for flexible control**
-- **Masking support for full-control**
-- **Flexible UV tiling, offset, rotation, and animation**
-- **Matcaps, Rim lighting, Back-lighting and more stylized features**
-- **And many more features awaits for you to try out!**
+- **Shading styles** : Can start from simple **Flat** to **Stylized Toon Shading** and up to **Realistic shading** and more as you customize.
+- **Rendering modes** : Includes **Opaque**, **Cutout** and **Transparent** with dedicated masking support.
+- **Culling modes** : Includes **Back** and **Front** culling with color tint support.
+- **UV animation** : Can adjust UV settings for Main color and many other textures.
+- **Extra slots** : Offers extra slots for **Detailing**, **Normal Mapping** and more with adjustable settings.
+- **Stylized rendering features** : **Matcaps**, **Rim lighting**, **Rim Highlight** and more.
+- **Masking system** : Masking support for almost every features.
+- **Debugging system** : For debugging how the effects are shading without being messy.
+- **And many more!**
 
 ## Coming Soon
-- **Full-PBR support with many extras**
-- **Special effects: Emission, Glitter, Refraction, Fancy Fade in/out etc.**
-- **Rendering modes: Opaque, Cutout and Transparent**
-- **Semi-realistic shading**
-- **Fur Shader support**
-- **Parallex Occlusion Support**
-- **Many more planned!**
-
-## Versions
-This shader has many different versions for many use cases. You can select the shader you need in the material editor’s shader slot. For cloud usage. The variations will also show up there.
-
-- **S&Toon** : Default version for most use cases. Includes all the features.
-- **S&Toon_transparent** : Same as default shader but rendered for **transparent** materials. Have two renderings (Transparent and TransparentZwrite). Includes slots and settings for 
-- **S&Toon_Cutout** : Same as **Translucent**. Default shader but rendered for **Cutout** materials. Includes slots and settings for **Alpha masks** usage and **Cutout**.
-- **S&Toon_Simple** : Simplified version of default version without any extra slots and heavy features.
-- **S&Toon_Refract** [Planned but not sure]: Modified version of simple version with refractions.
-- **S&Toon Fur** : Modified version of simple version with Fur shader.
-
-There can be more or less depending on what we want to do. 
+Still planning.
 
 ## License
 This project is licensed under the **MIT License**.
 
 You are free to study, use, modify, and fork the project even include it in your own projects (even commercial). 
-We'll be providing important files for making your own shader based on this shader soon!
+You must include the original copyright notice and the license in any copies or substantial parts of the software. 
+The software is provided "as is", without warranty of any kind.
 
-But, Please respect the original work:
-- Do not claim this shader as your own.
-- Do not reupload it elsewhere without proper credit.
-While MIT allows redistribution and commercial use, this note is a friendly request to keep credit where it’s due.
+Also, We'll be providing important files for making your own shader based on this shader soon!
 
 ## Contributing
-If you like to contribute new features/fixes to the shader. Feel free to make **[pull requests](https://github.com/BobmacU/SandToon/pulls)**
+If you like to contribute new features/fixes to the shader. Feel free to make **[pull requests](https://github.com/BobmacU/Bo-Bi-Co-Shaders/pulls)**
 Please only contribute with features/fixes that the shader really needs. Thank you!
 
-IF you like to report issues. Feel free to open [issues](https://github.com/BobmacU/SandToon/issues).
+IF you like to report issues. Feel free to open [issues](https://github.com/BobmacU/Bo-Bi-Co-Shaders/issues).
 Make sure to include many informations about the issue with screenshots/photos. It really helps!
 
 ## Compatibility
 
 This shader is fully compatible with **S&box**'s release and staging unless there's a breaking change in **Staging branch**. 
 Please be aware that the shader is made and will be updating on **Staging** first instead of **Release** to receieve many improvements as possible!
-If there's a breaking change, Please do wait until **Facepunch** drop a weekly update.
+If there's a breaking change, Please do wait until **Facepunch** drop a weekly update. Except on **Staging** where patches and updates drops frequently for testing.
