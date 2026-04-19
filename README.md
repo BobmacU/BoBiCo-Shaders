@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-**Flat shading | Toon Shading | Realistic shading | Ambient lighting support | Light probes & DDGI Indirect support | PBR Features | Masking system | Many advanced features | and many more!**
+Flat shading | Toon Shading | Realistic shading | Ambient lighting support | Light probes & DDGI Indirect support | PBR Features | Masking system | Many advanced features | and many more!
 </p>
 
 
