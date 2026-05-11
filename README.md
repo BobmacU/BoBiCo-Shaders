@@ -1,9 +1,12 @@
 <p align="center">
-  <img width="512" height="256" alt="Bobico Shader Logo" src="https://github.com/user-attachments/assets/9b696b39-18ef-4a25-aed0-dc654811a60c" />
+  <img width="1024" height="512" alt="BoBiCo Shader" src="https://github.com/user-attachments/assets/465b0eee-34b8-4c7a-af33-7af0308cb7e9" />
 </p>
 
+
+
+
 <p align="center">
-Flat shading | Toon Shading | Realistic shading | Ambient lighting support | Light probes & DDGI Indirect support | PBR Features | Masking system | Many advanced features | and many more!
+Many Shading styles | Full-lighting support | Stylized features | PBR Features | Masking system | and many more!
 </p>
 
 
@@ -11,7 +14,34 @@ Flat shading | Toon Shading | Realistic shading | Ambient lighting support | Lig
 
 # Overview
 
-**Bo-Bi-Co Shader** is a feature-rich toon shader for the **S&box game engine**, inspired by **LilToon** and **Poiyomi** with full ambient, direct and indirect (DDGI) support for maximum quality with the lighting. And, also supports many shading styles with many easy-to-use features to use while being performant as possible.
+**Bo-Bi-Co Shader** is a feature-rich shader for the **S&box game engine**, inspired by **LilToon** and **Poiyomi** with full lighting support for maximum quality with the lighting. And, also supports many shading styles with many easy-to-use features to use while being performant as possible.
+
+## Feature Highlights
+• **Many shading Styles**
+ - Stylized shading modes such as **Multi-layer**, **TextureRamp**, **Shademap** with customizable options.
+ - Realistic shading mode for normal usage with advanced **PBR** support such as **Parallax Occlusion**, **AO** and more.
+ - Stylized effects such as **Matcaps**, **Inverted hull Outlines** and many more.
+ - Full lighting support (Direct + Indirect) for every shading modes and every features.
+   
+• **Useful features**
+ - Doubled slots for **Albedo**, **Normal map**, **Emission**, **Matcaps** with many customizable options for full-control over your material.
+ - Advanced decal system with **2nd Color** for customization with your model.
+ - **Masking** and **UV settings** for all features for tiling and many more.
+ - **UV Modes** for switching UVs with the features. We only support **UV0** and **UV1** for now.
+ - **Debugging** feature for debugging your shading in a clean way.
+   
+• **Decorative features**
+ - **Rim Shade**, **Rim Light** and **Backlit** for full fresnel lighting control of what you prefer.
+ - 2 slots of **Matcaps** with masking support for a decorative shading from a sphere texture.
+ - **Glitters** feature with built-in and custom shape support with many customizable options.
+ - **Outlines** for your toon character with masking support for fully-detailed outlines.
+ - **Cubemaps** feature for **PBR** with adaptive reflections and decoration usage with glossy materials.
+   
+• **PBR features**
+ - Environment Reflections and Specular for reflective and metallic materials with masking and many customizable options.
+ - **Multi Channel AO** and **Multi Channel Shadowmap** supports for both indirect/direct shadow shading.
+And more..
+
 
 </div>
 
@@ -33,22 +63,6 @@ Flat shading | Toon Shading | Realistic shading | Ambient lighting support | Lig
 - Extract the files and drop it directly into your project's folder.
 
 ---
-# Main description
-
-## Features
-
-- **Shading styles** : Can start from simple **Flat** to **Stylized Toon Shading** and up to **Realistic shading** and more as you customize.
-- **Rendering modes** : Includes **Opaque**, **Cutout** and **Transparent** with dedicated masking support.
-- **Culling modes** : Includes **Back** and **Front** culling with color tint support.
-- **UV animation** : Can adjust UV settings for Main color and many other textures.
-- **Extra slots** : Offers extra slots for **Detailing**, **Normal Mapping** and more with adjustable settings.
-- **Stylized rendering features** : **Matcaps**, **Rim lighting**, **Rim Highlight** and more.
-- **Masking system** : Masking support for almost every features.
-- **Debugging system** : For debugging how the effects are shading without being messy.
-- **And many more!**
-
-## Coming Soon
-Still planning.
 
 ## License
 This project is licensed under the **MIT License**.
