@@ -1,12 +1,12 @@
 <p align="center">
-  <img width="1024" height="512" alt="BoBiCo Shader" src="https://github.com/user-attachments/assets/465b0eee-34b8-4c7a-af33-7af0308cb7e9" />
+<img width="1168" height="323" alt="BoBiCo Shader Landscape" src="https://github.com/user-attachments/assets/239ddf5c-1caa-4f71-9dd1-fd54e5932261" />
 </p>
 
 
 
 
 <p align="center">
-Many Shading styles | Full-lighting support | Stylized features | PBR Features | Masking system | and many more!
+Flat shading | Toon Shading | Realistic shading | Ambient lighting support | Light probes & DDGI Indirect support | PBR Features | Masking system | Many advanced features | and many more!'
 </p>
 
 
